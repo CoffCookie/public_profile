@@ -1,3 +1,4 @@
 ## Portfolio
 
-### Profile : https://coffcookie.github.io/profile/index.html
+### Profile : https://coffcookie.github.io/public_profile/index.html
+
